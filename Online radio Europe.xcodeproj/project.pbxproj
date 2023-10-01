@@ -1,0 +1,385 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		2205FDC52A402C8100DDC9E2 /* Radio.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2205FDC42A402C8100DDC9E2 /* Radio.swift */; };
+		2205FDC72A402CF000DDC9E2 /* Country.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2205FDC62A402CF000DDC9E2 /* Country.swift */; };
+		220D50CB2A423AB600DB00D9 /* ListenRadioTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 220D50CA2A423AB600DB00D9 /* ListenRadioTableViewController.swift */; };
+		220E07DA2A3C586A0095D43C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 220E07D92A3C586A0095D43C /* AppDelegate.swift */; };
+		220E07DC2A3C586A0095D43C /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 220E07DB2A3C586A0095D43C /* SceneDelegate.swift */; };
+		220E07E12A3C586A0095D43C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 220E07DF2A3C586A0095D43C /* Main.storyboard */; };
+		220E07E32A3C586D0095D43C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 220E07E22A3C586D0095D43C /* Assets.xcassets */; };
+		220E07E62A3C586D0095D43C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 220E07E42A3C586D0095D43C /* LaunchScreen.storyboard */; };
+		220E07EE2A3C65BF0095D43C /* CountriesAndFlagsTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 220E07ED2A3C65BF0095D43C /* CountriesAndFlagsTableViewController.swift */; };
+		22393E762A4397B200AE44A4 /* RadioTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22393E752A4397B200AE44A4 /* RadioTableViewCell.swift */; };
+		2269541A2A3CFBAA00C49568 /* FlagTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 226954192A3CFBAA00C49568 /* FlagTableViewCell.swift */; };
+		22A5FCCC2A8F8AD000AC158B /* Countries.plist in Resources */ = {isa = PBXBuildFile; fileRef = 22A5FCCB2A8F8AD000AC158B /* Countries.plist */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		2205FDC42A402C8100DDC9E2 /* Radio.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Radio.swift; sourceTree = "<group>"; };
+		2205FDC62A402CF000DDC9E2 /* Country.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Country.swift; sourceTree = "<group>"; };
+		220D50CA2A423AB600DB00D9 /* ListenRadioTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListenRadioTableViewController.swift; sourceTree = "<group>"; };
+		220E07D62A3C586A0095D43C /* Online radio Europe.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Online radio Europe.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		220E07D92A3C586A0095D43C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		220E07DB2A3C586A0095D43C /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		220E07E02A3C586A0095D43C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		220E07E22A3C586D0095D43C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		220E07E52A3C586D0095D43C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		220E07E72A3C586D0095D43C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		220E07ED2A3C65BF0095D43C /* CountriesAndFlagsTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountriesAndFlagsTableViewController.swift; sourceTree = "<group>"; };
+		22393E752A4397B200AE44A4 /* RadioTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RadioTableViewCell.swift; sourceTree = "<group>"; };
+		226954192A3CFBAA00C49568 /* FlagTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlagTableViewCell.swift; sourceTree = "<group>"; };
+		22A5FCCB2A8F8AD000AC158B /* Countries.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Countries.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		220E07D32A3C586A0095D43C /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		220E07CD2A3C586A0095D43C = {
+			isa = PBXGroup;
+			children = (
+				22A5FCCB2A8F8AD000AC158B /* Countries.plist */,
+				220E07D82A3C586A0095D43C /* Online radio Europe */,
+				220E07D72A3C586A0095D43C /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		220E07D72A3C586A0095D43C /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				220E07D62A3C586A0095D43C /* Online radio Europe.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		220E07D82A3C586A0095D43C /* Online radio Europe */ = {
+			isa = PBXGroup;
+			children = (
+				220E07D92A3C586A0095D43C /* AppDelegate.swift */,
+				220E07DB2A3C586A0095D43C /* SceneDelegate.swift */,
+				226954192A3CFBAA00C49568 /* FlagTableViewCell.swift */,
+				220E07DF2A3C586A0095D43C /* Main.storyboard */,
+				220E07ED2A3C65BF0095D43C /* CountriesAndFlagsTableViewController.swift */,
+				220D50CA2A423AB600DB00D9 /* ListenRadioTableViewController.swift */,
+				22393E752A4397B200AE44A4 /* RadioTableViewCell.swift */,
+				2205FDC42A402C8100DDC9E2 /* Radio.swift */,
+				2205FDC62A402CF000DDC9E2 /* Country.swift */,
+				220E07E22A3C586D0095D43C /* Assets.xcassets */,
+				220E07E42A3C586D0095D43C /* LaunchScreen.storyboard */,
+				220E07E72A3C586D0095D43C /* Info.plist */,
+			);
+			path = "Online radio Europe";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		220E07D52A3C586A0095D43C /* Online radio Europe */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 220E07EA2A3C586D0095D43C /* Build configuration list for PBXNativeTarget "Online radio Europe" */;
+			buildPhases = (
+				220E07D22A3C586A0095D43C /* Sources */,
+				220E07D32A3C586A0095D43C /* Frameworks */,
+				220E07D42A3C586A0095D43C /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Online radio Europe";
+			productName = "Online radio Europe";
+			productReference = 220E07D62A3C586A0095D43C /* Online radio Europe.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		220E07CE2A3C586A0095D43C /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1400;
+				LastUpgradeCheck = 1400;
+				TargetAttributes = {
+					220E07D52A3C586A0095D43C = {
+						CreatedOnToolsVersion = 14.0;
+					};
+				};
+			};
+			buildConfigurationList = 220E07D12A3C586A0095D43C /* Build configuration list for PBXProject "Online radio Europe" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 220E07CD2A3C586A0095D43C;
+			productRefGroup = 220E07D72A3C586A0095D43C /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				220E07D52A3C586A0095D43C /* Online radio Europe */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		220E07D42A3C586A0095D43C /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				22A5FCCC2A8F8AD000AC158B /* Countries.plist in Resources */,
+				220E07E62A3C586D0095D43C /* LaunchScreen.storyboard in Resources */,
+				220E07E32A3C586D0095D43C /* Assets.xcassets in Resources */,
+				220E07E12A3C586A0095D43C /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		220E07D22A3C586A0095D43C /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				22393E762A4397B200AE44A4 /* RadioTableViewCell.swift in Sources */,
+				2205FDC72A402CF000DDC9E2 /* Country.swift in Sources */,
+				220E07EE2A3C65BF0095D43C /* CountriesAndFlagsTableViewController.swift in Sources */,
+				220E07DA2A3C586A0095D43C /* AppDelegate.swift in Sources */,
+				220D50CB2A423AB600DB00D9 /* ListenRadioTableViewController.swift in Sources */,
+				220E07DC2A3C586A0095D43C /* SceneDelegate.swift in Sources */,
+				2269541A2A3CFBAA00C49568 /* FlagTableViewCell.swift in Sources */,
+				2205FDC52A402C8100DDC9E2 /* Radio.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		220E07DF2A3C586A0095D43C /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				220E07E02A3C586A0095D43C /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		220E07E42A3C586D0095D43C /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				220E07E52A3C586D0095D43C /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		220E07E82A3C586D0095D43C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		220E07E92A3C586D0095D43C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		220E07EB2A3C586D0095D43C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "Online radio Europe/Info.plist";
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen.storyboard;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "Elena-Moga.Online-radio-Europe";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		220E07EC2A3C586D0095D43C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "Online radio Europe/Info.plist";
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen.storyboard;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "Elena-Moga.Online-radio-Europe";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		220E07D12A3C586A0095D43C /* Build configuration list for PBXProject "Online radio Europe" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				220E07E82A3C586D0095D43C /* Debug */,
+				220E07E92A3C586D0095D43C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		220E07EA2A3C586D0095D43C /* Build configuration list for PBXNativeTarget "Online radio Europe" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				220E07EB2A3C586D0095D43C /* Debug */,
+				220E07EC2A3C586D0095D43C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 220E07CE2A3C586A0095D43C /* Project object */;
+}

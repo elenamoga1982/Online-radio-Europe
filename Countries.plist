@@ -1,0 +1,1622 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>Albania</string>
+		<key>radios</key>
+		<array>
+			<dict>
+				<key>title</key>
+				<string>Sol Radio</string>
+				<key>url</key>
+				<string>https://az1.sednastream.com/radio/8160/radio.mp3</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Radio Deejay</string>
+				<key>url</key>
+				<string>https://radio.albaniaradiodj.al/stream</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Club FM</string>
+				<key>url</key>
+				<string>https://rs18.stream24.net/clubfm.aac</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Radio One</string>
+				<key>url</key>
+				<string>https://cp1.sednastream.com/proxy/radioone94?mp=/stream</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Top Albania Radio</string>
+				<key>url</key>
+				<string>https://live.top-media.al/tar</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>My Music Radio</string>
+				<key>url</key>
+				<string>https://live.top-media.al/mmr</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Andorra</string>
+		<key>radios</key>
+		<array>
+			<dict>
+				<key>title</key>
+				<string>Radio Nacional D Andorra</string>
+				<key>url</key>
+				<string>https://videos.rtva.ad/live/rna/playlist.m3u8</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Andorra Música</string>
+				<key>url</key>
+				<string>https://videos.rtva.ad/live/am/playlist.m3u8</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Flaixbac Andorra</string>
+				<key>url</key>
+				<string>https://streaming.giraweb.com/8010/stream</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Flaix Andorra FM</string>
+				<key>url</key>
+				<string>https://streaming.giraweb.com/8020/stream</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Austria</string>
+		<key>radios</key>
+		<array>
+			<dict>
+				<key>title</key>
+				<string>Hitradio Ö3</string>
+				<key>url</key>
+				<string>https://orf-live.ors-shoutcast.at/oe3-q1a</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Kronehit</string>
+				<key>url</key>
+				<string>https://secureonair.krone.at/kronehit.aac</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>FM 4</string>
+				<key>url</key>
+				<string>https://orf-live.ors-shoutcast.at/fm4-q2a</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Radio Austria</string>
+				<key>url</key>
+				<string>https://onair.securestream.radioaustria.at/radioaustria</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Radio Arabella - Hot</string>
+				<key>url</key>
+				<string>https://edge59.streams.arabella.at/arabella-hot</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Belarus</string>
+		<key>radios</key>
+		<array>
+			<dict>
+				<key>title</key>
+				<string>BR Radius FM</string>
+				<key>url</key>
+				<string>https://stream2.datacenter.by/radiusfm_main</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>BR Radio Grodno</string>
+				<key>url</key>
+				<string>https://stream.radiogrodno.by:8005/live</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>BR Radio Vitebsk</string>
+				<key>url</key>
+				<string>https://live.radiovitebsk.by/live</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Yumor v Belarusi FM</string>
+				<key>url</key>
+				<string>https://live.humorfm.by:8443/veseloe</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>BR Gomel FM</string>
+				<key>url</key>
+				<string>http://live.alpha.by:7000/tuner_gomel</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Belgium</string>
+		<key>radios</key>
+		<array>
+			<dict>
+				<key>title</key>
+				<string>VRT Radio 2</string>
+				<key>url</key>
+				<string>http://icecast.vrtcdn.be/ra2wvl-mid.mp3</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Vivacité (RTBF)</string>
+				<key>url</key>
+				<string>https://radios.rtbf.be/vivacharleroi-64.aac</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Nostalgie - Love</string>
+				<key>url</key>
+				<string>https://streamingv2.shoutcast.com/NostalgieLove-aac</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>NRJ FM</string>
+				<key>url</key>
+				<string>https://scdn.nrjaudio.fm/adwz1/be/34007/mp3_128.mp3</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>RTBF Tipik</string>
+				<key>url</key>
+				<string>https://radios.rtbf.be/pure-128.mp3</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Fun Radio</string>
+				<key>url</key>
+				<string>https://funradiobe.ice.infomaniak.ch/funradiobe-low.aac</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Bosnia and Herzegovina</string>
+		<key>radios</key>
+		<array>
+			<dict>
+				<key>title</key>
+				<string>Big Radio - Folk</string>
+				<key>url</key>
+				<string>https://big2.bigportal.ba:8080/big2</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Radio Unsko-Sanskog Kantona RT</string>
+				<key>url</key>
+				<string>https://radiousk.radioca.st/stream</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Radio M</string>
+				<key>url</key>
+				<string>https://stm1.srvif.com:7922/;</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Radio Bihać</string>
+				<key>url</key>
+				<string>https://radiobihaclive.radioca.st/;</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Radio Feniks</string>
+				<key>url</key>
+				<string>https://solid55.streamupsolutions.com/proxy/umzjpgrm/stream</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Bulgaria</string>
+		<key>radios</key>
+		<array>
+			<dict>
+				<key>title</key>
+				<string>Radio Energy</string>
+				<key>url</key>
+				<string>http://stream80.metacast.eu/nrj.aac</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Radio N-Joy</string>
+				<key>url</key>
+				<string>http://live.btvradio.bg/njoy.mp3</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Radio 1</string>
+				<key>url</key>
+				<string>http://stream.radioreklama.bg/radio1.aac</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Radio Nova News</string>
+				<key>url</key>
+				<string>https://play.global.audio/novanews.aac</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Radio Vitosha</string>
+				<key>url</key>
+				<string>https://bss1.neterra.tv/vitosha/stream_0.m3u8</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Croatia</string>
+		<key>radios</key>
+		<array>
+			<dict>
+				<key>title</key>
+				<string>Otvoreni Radio</string>
+				<key>url</key>
+				<string>https://stream.otvoreni.hr/stream48</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>HRT Radio Osijek</string>
+				<key>url</key>
+				<string>https://playerservices.streamtheworld.com/api/livestream-redirect/OSIJEKAAC.aac</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>HRT Radio Split</string>
+				<key>url</key>
+				<string>https://playerservices.streamtheworld.com/api/livestream-redirect/SPLITAAC.aac</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Radio Nacional</string>
+				<key>url</key>
+				<string>https://nnc1-bpmmc501.radioca.st/stream</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Slavonski Radio</string>
+				<key>url</key>
+				<string>https://ec2s.crolive.com.hr:8035/stream</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Cyprus</string>
+		<key>radios</key>
+		<array>
+			<dict>
+				<key>title</key>
+				<string>Cy BC - First Channel ΠΡΩΤΟ</string>
+				<key>url</key>
+				<string>https://r1.cloudskep.com/cybcr/cybc1/icecast.audio</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Bfbs Cyprus</string>
+				<key>url</key>
+				<string>https://edge-audio-03-gos2.sharp-stream.com/ssvcbfbs8.aac</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Radio Logos FM</string>
+				<key>url</key>
+				<string>https://r1.cloudskep.com/radio/diesi/icecast.audio</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Capital Radio</string>
+				<key>url</key>
+				<string>https://radyo1.radyo-dinle.tc:8256/;</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Capital Türk</string>
+				<key>url</key>
+				<string>https://radyo1.radyo-dinle.tc/8210/stream</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Czech Republic</string>
+		<key>radios</key>
+		<array>
+			<dict>
+				<key>title</key>
+				<string>ČRo Vltava</string>
+				<key>url</key>
+				<string>https://rozhlas.stream/vltava_mp3_256.mp3</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Radio Impuls</string>
+				<key>url</key>
+				<string>https://icecast5.play.cz/impuls64.mp3</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Evropa 2</string>
+				<key>url</key>
+				<string>https://ice.actve.net/fm-evropa2-aac</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Hitrádio FM</string>
+				<key>url</key>
+				<string>https://playerservices.streamtheworld.com/api/livestream-redirect/HITRADIO_FMAAC.aac</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>ČRo Karlovy Vary</string>
+				<key>url</key>
+				<string>https://rozhlas.stream/kv_mp3_128.mp3</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Denmark</string>
+		<key>radios</key>
+		<array>
+			<dict>
+				<key>title</key>
+				<string>The Voice</string>
+				<key>url</key>
+				<string>https://live-bauerdk.sharp-stream.com/voice128.mp3</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Radio 100</string>
+				<key>url</key>
+				<string>https://tx-bauerdk.sharp-stream.com/http_live.php?i=radio100_dk_tunein_mp3</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Radio M</string>
+				<key>url</key>
+				<string>https://radioserver.dk/radiom</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>PopFM 80&apos;er</string>
+				<key>url</key>
+				<string>https://live-bauerdk.sharp-stream.com/popfm_dk_tunein_mp3</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>VLR</string>
+				<key>url</key>
+				<string>https://webradio.vlr.dk/vlrvejle</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Estonia</string>
+		<key>radios</key>
+		<array>
+			<dict>
+				<key>title</key>
+				<string>MyHits</string>
+				<key>url</key>
+				<string>https://router.euddn.net/8103046e16b71d15d692b57c187875c7/myhits.aac</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Raadio Elmar</string>
+				<key>url</key>
+				<string>https://router.euddn.net/8103046e16b71d15d692b57c187875c7/elmar_low.mp3</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Power Hit Radio</string>
+				<key>url</key>
+				<string>https://ice.leviracloud.eu/phr96-aac</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>DFM</string>
+				<key>url</key>
+				<string>https://router.euddn.net/8103046e16b71d15d692b57c187875c7/dfm.aac</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Raadio Kuku</string>
+				<key>url</key>
+				<string>https://router.euddn.net/8103046e16b71d15d692b57c187875c7/kuku_low.mp3</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Star FM</string>
+				<key>url</key>
+				<string>https://ice.leviracloud.eu/star96-aac</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Finland</string>
+		<key>radios</key>
+		<array>
+			<dict>
+				<key>title</key>
+				<string>YLE Vega</string>
+				<key>url</key>
+				<string>https://yleradiolive.akamaized.net/hls/live/2027716/in-YleVegaAboland/master.m3u8</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Hit Mix</string>
+				<key>url</key>
+				<string>https://digitacdn.akamaized.net/hls/live/629243/hitmix/master.m3u8</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>YLE Radio Suomi Pori</string>
+				<key>url</key>
+				<string>https://yleradiolive.akamaized.net/hls/live/2027715/in-YlePori/master.m3u8</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Radio Sun</string>
+				<key>url</key>
+				<string>https://st.downtime.fi/sun.aac</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Iskelmä Rex</string>
+				<key>url</key>
+				<string>https://stream.radiorex.fi:8000/radiorex</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>France</string>
+		<key>radios</key>
+		<array>
+			<dict>
+				<key>title</key>
+				<string>NRJ France</string>
+				<key>url</key>
+				<string>https://scdn.nrjaudio.fm/adwz2/fr/30001/mp3_128.mp3</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Radio FG</string>
+				<key>url</key>
+				<string>https://radiofg.impek.com/fg</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Chérie FM</string>
+				<key>url</key>
+				<string>https://scdn.nrjaudio.fm/audio1/fr/30201/mp3_128.mp3</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Kiss FM</string>
+				<key>url</key>
+				<string>https://kissfm.ice.infomaniak.ch/kissfm-64.aac</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Puls Radio - Hit Party</string>
+				<key>url</key>
+				<string>https://icecast.pulsradio.com/hitpartyAAC64.mp3</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Germany</string>
+		<key>radios</key>
+		<array>
+			<dict>
+				<key>title</key>
+				<string>Sunshine Live</string>
+				<key>url</key>
+				<string>https://stream.sunshine-live.de/90er/aac-64</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Absolut Relax</string>
+				<key>url</key>
+				<string>https://absolut-relax.live-sm.absolutradio.de/absolut-relax</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Energy</string>
+				<key>url</key>
+				<string>https://nrj.de/digital</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Ego FM</string>
+				<key>url</key>
+				<string>https://streams.egofm.de/egoFM-lq</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>MDR Jump</string>
+				<key>url</key>
+				<string>https://mdr-284320-0.sslcast.mdr.de/mdr/284320/0/mp3/high/stream.mp3</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Greece</string>
+		<key>radios</key>
+		<array>
+			<dict>
+				<key>title</key>
+				<string>Rythmos FM</string>
+				<key>url</key>
+				<string>https://stream.radiojar.com/aw1w2xfx1vduv</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Love Radio</string>
+				<key>url</key>
+				<string>https://netradio.live24.gr/loveradio-1000</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Sfera</string>
+				<key>url</key>
+				<string>https://sfera.live24.gr/sfera4132</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>99 FM Radio 1</string>
+				<key>url</key>
+				<string>http://111.gr:8000/;</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Kiss 929 FM</string>
+				<key>url</key>
+				<string>https://kissfm.live24.gr/kissfmathens</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Hungary</string>
+		<key>radios</key>
+		<array>
+			<dict>
+				<key>title</key>
+				<string>Rádió 1</string>
+				<key>url</key>
+				<string>https://icast.connectmedia.hu/5015/live.mp3</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Best FM</string>
+				<key>url</key>
+				<string>https://icast.connectmedia.hu/5115/live.mp3</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Korona FM</string>
+				<key>url</key>
+				<string>https://s01.diazol.hu:10032/live.mp3</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Trimedio Rádió</string>
+				<key>url</key>
+				<string>https://az1.sslstreaming.com:8020/radio.mp3</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>MR 7 Dankó Rádió</string>
+				<key>url</key>
+				<string>https://mr-stream.connectmedia.hu/4748/mr7.mp3</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Iceland</string>
+		<key>radios</key>
+		<array>
+			<dict>
+				<key>title</key>
+				<string>Bylgjan FM</string>
+				<key>url</key>
+				<string>https://live.visir.is/hls-radio/bylgjan/playlist.m3u8</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>X-977</string>
+				<key>url</key>
+				<string>https://live.visir.is/hls-radio/x977/playlist.m3u8</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>FM Xtra</string>
+				<key>url</key>
+				<string>https://ice-11.spilarinn.is/fmxtra</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Ireland</string>
+		<key>radios</key>
+		<array>
+			<dict>
+				<key>title</key>
+				<string>Today FM</string>
+				<key>url</key>
+				<string>https://pri.gocaster.net/td</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Classic Hits - Cork</string>
+				<key>url</key>
+				<string>https://edge2.audioxi.com/CLASSIC</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Red FM</string>
+				<key>url</key>
+				<string>https://edge.audioxi.com/RED</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Radio Kerry</string>
+				<key>url</key>
+				<string>https://edge.audioxi.com/KERRY</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Dublin s FM</string>
+				<key>url</key>
+				<string>https://wg.cdn.tibus.net/fm104MP3128</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Italy</string>
+		<key>radios</key>
+		<array>
+			<dict>
+				<key>title</key>
+				<string>Radio Deejay</string>
+				<key>url</key>
+				<string>https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radiodeejay/radiodeejay/master_ma.m3u8</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Radio 105</string>
+				<key>url</key>
+				<string>https://icecast.unitedradio.it/Radio105.mp3</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>RMC Radio Monte Carlo</string>
+				<key>url</key>
+				<string>https://icecast.unitedradio.it/RMC.mp3</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Deejay 30 Songs</string>
+				<key>url</key>
+				<string>https://streamcdnm8-4c4b867c89244861ac216426883d1ad0.msvdn.net/radiodeejay30songs/radiodeejay30songs/play1.m3u8</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Discoradio FM</string>
+				<key>url</key>
+				<string>https://stream.rds.radio/audio/disco.stream_aac/playlist.m3u8</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Latvia</string>
+		<key>radios</key>
+		<array>
+			<dict>
+				<key>title</key>
+				<string>Star FM</string>
+				<key>url</key>
+				<string>https://starfm.live.advailo.com/audio/mp3/icecast.audio</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>EHR Super Hits</string>
+				<key>url</key>
+				<string>https://stream.ehrhiti.lv:8000/Stream_21.aac</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>LR-5 Pieci FM</string>
+				<key>url</key>
+				<string>https://live.pieci.lv/live19-hq.mp3</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>XO FM</string>
+				<key>url</key>
+				<string>https://live.xo.fm/xofm48</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Top Radio</string>
+				<key>url</key>
+				<string>http://195.13.200.164:8080/;</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Liechtenstein</string>
+		<key>radios</key>
+		<array>
+			<dict>
+				<key>title</key>
+				<string>Radio Liechtenstein</string>
+				<key>url</key>
+				<string>http://radioliechtenstein.ice.infomaniak.ch/radioliechtenstein-192.mp3</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Lithuania</string>
+		<key>radios</key>
+		<array>
+			<dict>
+				<key>title</key>
+				<string>LRT Lietuvos Radijas</string>
+				<key>url</key>
+				<string>https://radijas.lrt.lt/radijas/lrt_radijas/playlist.m3u8</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Radiocentras FM</string>
+				<key>url</key>
+				<string>https://stream2.rc.lt/rc128.mp3</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Lietus FM</string>
+				<key>url</key>
+				<string>https://radio.m-1.fm/lietus/aacp</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>LRT Opus</string>
+				<key>url</key>
+				<string>https://radijas.lrt.lt/radijas/lrt_opus/playlist.m3u8</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Rusradio LT Detskaya Rubrika</string>
+				<key>url</key>
+				<string>https://stream2.rusradio.lt/rrb128.mp3</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Luxembourg</string>
+		<key>radios</key>
+		<array>
+			<dict>
+				<key>title</key>
+				<string>RTL Radio Lëtzebuerg</string>
+				<key>url</key>
+				<string>https://shoutcast.rtl.lu/rtl</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>L&apos;essentiel Radio</string>
+				<key>url</key>
+				<string>https://lessentielradio.ice.infomaniak.ch/lessentielradio-128.mp3</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Eldoradio - Chill</string>
+				<key>url</key>
+				<string>https://shoutcast.rtl.lu/eldochill</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Radio C</string>
+				<key>url</key>
+				<string>https://edge15.streamonkey.net/radioc-live</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Malta</string>
+		<key>radios</key>
+		<array>
+			<dict>
+				<key>title</key>
+				<string>Radju Malta 2</string>
+				<key>url</key>
+				<string>https://s11.myradiostream.com/4954/listen.mp3</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>103 Malta&apos;s Heart</string>
+				<key>url</key>
+				<string>https://s2.radio.co/s955b1ced9/listen</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>One Radio</string>
+				<key>url</key>
+				<string>https://s10.voscast.com:8203/stream</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Vibe FM</string>
+				<key>url</key>
+				<string>https://s9.voscast.com:7825/1</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Moldova</string>
+		<key>radios</key>
+		<array>
+			<dict>
+				<key>title</key>
+				<string>Hit FM Moldova</string>
+				<key>url</key>
+				<string>https://stream.hitfm.md:8443/HitFM</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Radio Relax Moldova</string>
+				<key>url</key>
+				<string>https://stream.hitfm.md:8443/RadioRelax</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Megapolis FM</string>
+				<key>url</key>
+				<string>https://megapolisfm.md:8443/886aac</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Radio Rekord Moldova</string>
+				<key>url</key>
+				<string>https://air.radiorecord.md/RecordMD</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Kiss FM</string>
+				<key>url</key>
+				<string>https://live.kissfm.ro/kissfm.chisinau</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Monaco</string>
+		<key>radios</key>
+		<array>
+			<dict>
+				<key>title</key>
+				<string>Riviera Radio</string>
+				<key>url</key>
+				<string>https://rivieraradio.ice.infomaniak.ch/rivieraradio-high.aac</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Radio Monaco</string>
+				<key>url</key>
+				<string>https://radiomonaco.ice.infomaniak.ch/radiomonaco-128.mp3</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Radio Pitchoun</string>
+				<key>url</key>
+				<string>https://webradio.tvradio-pitchoun.fr:8443/radiopitchoun.aac</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Music FM</string>
+				<key>url</key>
+				<string>https://ice04.fluidstream.net/music1009.mp3</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Pure Electro Radio</string>
+				<key>url</key>
+				<string>https://str0.creacast.com/purelectro</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Sunny One</string>
+				<key>url</key>
+				<string>https://sunnyone.ice.infomaniak.ch/sunnyone-192.mp3</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Montenegro</string>
+		<key>radios</key>
+		<array>
+			<dict>
+				<key>title</key>
+				<string>Radio Crne Gore 2</string>
+				<key>url</key>
+				<string>https://r98.ipradio.rs:10100/;</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Radio Crna Gora</string>
+				<key>url</key>
+				<string>https://streaming.tdiradio.com/crnagora.mp3</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Radio S3 (CG)</string>
+				<key>url</key>
+				<string>https://stream.radios.rs:9018/stream</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Radio Kotor 99.0</string>
+				<key>url</key>
+				<string>https://stream.iradio.pro/proxy/radiokotor?mp=/stream</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Radio Bijelo Polje &amp; 101.1</string>
+				<key>url</key>
+				<string>https://stream.iradio.pro/proxy/radiobijelopolje?mp=/stream</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Netherlands</string>
+		<key>radios</key>
+		<array>
+			<dict>
+				<key>title</key>
+				<string>Qmusic</string>
+				<key>url</key>
+				<string>https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_live_32.aac</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>100% NL</string>
+				<key>url</key>
+				<string>https://stream.100p.nl/100pctnl.mp3</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Sky Radio</string>
+				<key>url</key>
+				<string>https://playerservices.streamtheworld.com/api/livestream-redirect/SKYRADIOAAC.aac</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>NPO Radio 2</string>
+				<key>url</key>
+				<string>https://icecast.omroep.nl/radio2-sb-aac</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Radio Gelderland</string>
+				<key>url</key>
+				<string>https://stream.omroepgelderland.nl/radiogelderland</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>North Macedonia</string>
+		<key>radios</key>
+		<array>
+			<dict>
+				<key>title</key>
+				<string>Antenna 5</string>
+				<key>url</key>
+				<string>http://antenna5stream.neotel.mk:8000//live128</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Radio Bubamara</string>
+				<key>url</key>
+				<string>https://stream.bubamara.com.mk/live-128.mp3</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Radio 105 Bombarder</string>
+				<key>url</key>
+				<string>http://stream.radio105bombarder.com:21010/</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Sky Radio</string>
+				<key>url</key>
+				<string>http://s1.skyradio.com.mk:8002</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Radio Fortuna</string>
+				<key>url</key>
+				<string>https://radiofortuna.ipradio.mk/;</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Norway</string>
+		<key>radios</key>
+		<array>
+			<dict>
+				<key>title</key>
+				<string>NRK P1</string>
+				<key>url</key>
+				<string>https://lyd.nrk.no/nrk_radio_p1_hordaland_mp3_l</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>NRK Jazz</string>
+				<key>url</key>
+				<string>https://lyd.nrk.no/nrk_radio_jazz_mp3_l</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>P5 Hits</string>
+				<key>url</key>
+				<string>https://p5.p4groupaudio.com/P05_MH</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Radio Metro</string>
+				<key>url</key>
+				<string>https://stream.oneplay.no/ostfold64</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Radio Bardufoss / Radio Midt-Troms</string>
+				<key>url</key>
+				<string>https://stream.bardufoss.no/radiobardufoss128</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Radio Grenland</string>
+				<key>url</key>
+				<string>https://audio.jaerradiogruppen.no/grenland_hq</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Poland</string>
+		<key>radios</key>
+		<array>
+			<dict>
+				<key>title</key>
+				<string>RMF FM</string>
+				<key>url</key>
+				<string>https://rs6-krk2.rmfstream.pl/rmf_fm</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Radio ZET</string>
+				<key>url</key>
+				<string>https://r.dcs.redcdn.pl/sc/o2/Eurozet/live/audio.livx</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>ESKA</string>
+				<key>url</key>
+				<string>https://radio.stream.smcdn.pl/icradio-p/2050-2.aac/playlist.m3u8</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>RMF - Maxxx</string>
+				<key>url</key>
+				<string>https://rs6-krk2-cyfronet.rmfstream.pl/RMFMAXXX48</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>PR Radio Poznan</string>
+				<key>url</key>
+				<string>https://ml.cdn.eurozet.pl/mel-poz.mp3</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Portugal</string>
+		<key>radios</key>
+		<array>
+			<dict>
+				<key>title</key>
+				<string>RDP Antena 1</string>
+				<key>url</key>
+				<string>https://radiocast.rtp.pt/antena180a.mp3</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Cidade FM</string>
+				<key>url</key>
+				<string>https://stream-icy.bauermedia.pt/cidade.mp3</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Mega Hits</string>
+				<key>url</key>
+				<string>https://playerservices.streamtheworld.com/api/livestream-redirect/MEGA_HITSAAC.aac</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Rádio Baía</string>
+				<key>url</key>
+				<string>https://stream.observador.pt/live.aac</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Rádio Vale do Minho</string>
+				<key>url</key>
+				<string>https://centova.radios.pt/proxy/434?mp=/stream</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Romania</string>
+		<key>radios</key>
+		<array>
+			<dict>
+				<key>title</key>
+				<string>Europa FM</string>
+				<key>url</key>
+				<string>https://astreaming.edi.ro:8443/EuropaFM_aac</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Kiss FM România</string>
+				<key>url</key>
+				<string>https://live.kissfm.ro:8443/kissfm.aacp</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Radio ZU</string>
+				<key>url</key>
+				<string>https://live7digi.antenaplay.ro/radiozu/radiozu-48000.m3u8</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Virgin Radio</string>
+				<key>url</key>
+				<string>https://astreaming.edi.ro:8443/VirginRadio_aac</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Magic FM</string>
+				<key>url</key>
+				<string>http://live.magicfm.ro:9128/magicfm.aacp</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Radio Viva FM</string>
+				<key>url</key>
+				<string>https://cloud.radiosonicpanel.ro:10997/;</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Radio Seven</string>
+				<key>url</key>
+				<string>http://live1.radioseven.ro:7480/;</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Radio Accent</string>
+				<key>url</key>
+				<string>http://86.122.157.14:8900/;</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Radio Impuls</string>
+				<key>url</key>
+				<string>https://stream.radio-impuls.ro/stream2</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>San Marino</string>
+		<key>radios</key>
+		<array>
+			<dict>
+				<key>title</key>
+				<string>Radio San Marino RTV</string>
+				<key>url</key>
+				<string>https://d18ufyp3q60j7u.cloudfront.net/radio-ch01/radio-ch01/playlist.m3u8</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Serbia</string>
+		<key>radios</key>
+		<array>
+			<dict>
+				<key>title</key>
+				<string>RTS Radio Beograd 1</string>
+				<key>url</key>
+				<string>https://rtsradio-live.morescreens.com/RTS_2_001/audio/chunklist.m3u8</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Radio S 1</string>
+				<key>url</key>
+				<string>https://stream.radios.rs:9000/;</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Radio AS FM</string>
+				<key>url</key>
+				<string>https://mastermedia.shoutca.st/proxy/radioasfm?mp=/stream</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>TDI Radio</string>
+				<key>url</key>
+				<string>http://streaming.karolina.rs:8000/tdiradiobor</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Radio Stara Pazova</string>
+				<key>url</key>
+				<string>https://streamer.radio.co/s34d2c17d8/listen</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Slovakia</string>
+		<key>radios</key>
+		<array>
+			<dict>
+				<key>title</key>
+				<string>Europa 2</string>
+				<key>url</key>
+				<string>https://stream.bauermedia.sk/europa2.mp3</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Rádio Wow</string>
+				<key>url</key>
+				<string>http://radioserver.online:8932/radiovnitre_live.mp3</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Beta Rádio</string>
+				<key>url</key>
+				<string>http://109.71.67.102:8000/beta_live_low.mp3</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Trnavské Rádio</string>
+				<key>url</key>
+				<string>https://stream.trnavskeradio.sk/trnavske</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Radio Sub FM</string>
+				<key>url</key>
+				<string>https://stream.subfm.sk/subfm</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Slovenia</string>
+		<key>radios</key>
+		<array>
+			<dict>
+				<key>title</key>
+				<string>Radio Prvi</string>
+				<key>url</key>
+				<string>https://mp3.rtvslo.si/ra1</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Radio City</string>
+				<key>url</key>
+				<string>http://stream.radiocity.live:8000/CityAAC64.aac</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Radio Salomon</string>
+				<key>url</key>
+				<string>http://live.radio-kranj.si/Salomon</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Radio Capris</string>
+				<key>url</key>
+				<string>http://stream01.exit.si:8000/live</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Radio Hit</string>
+				<key>url</key>
+				<string>http://stream01.exit.si:8000/radiohit</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Spain</string>
+		<key>radios</key>
+		<array>
+			<dict>
+				<key>title</key>
+				<string>Cadena FM</string>
+				<key>url</key>
+				<string>https://flucast-b04-01.flumotion.com/cope/cadena100.aac</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Cadena Dial</string>
+				<key>url</key>
+				<string>https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIALAAC.aac</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Europa FM</string>
+				<key>url</key>
+				<string>https://livefastly-webs.europafm.com/europafm/audio/playlist.m3u8</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Radio Galega</string>
+				<key>url</key>
+				<string>https://wecast-b03-04.flumotion.com/radiogalega/live.mp3</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Melodía FM</string>
+				<key>url</key>
+				<string>https://livefastly-webs.melodia-fm.com/melodiafm/audio/master.m3u8</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Radio Tele Taxi</string>
+				<key>url</key>
+				<string>https://radiott-web.streaming-pro.com:6103/radiott.mp3</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Sweden</string>
+		<key>radios</key>
+		<array>
+			<dict>
+				<key>title</key>
+				<string>Fun Radio</string>
+				<key>url</key>
+				<string>http://stream.funradio.se/live128</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Dansbandskanalen</string>
+				<key>url</key>
+				<string>https://stream.dbmedia.se/dbkMP3</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Guldkanalen</string>
+				<key>url</key>
+				<string>https://stream.dbmedia.se/gkMP3</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Lugna Favoriter</string>
+				<key>url</key>
+				<string>https://fm03-ice.stream.khz.se/fm03_mp3</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Mix Megapol</string>
+				<key>url</key>
+				<string>https://live-bauerse-fm.sharp-stream.com/mixmegapol_instream_se_aacp</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>NRJ FM</string>
+				<key>url</key>
+				<string>https://tx-bauerse.sharp-stream.com/http_live.php?i=nrj_instreamtest_se_mp3</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Radio Active</string>
+				<key>url</key>
+				<string>https://live-bauerse-fm.sharp-stream.com/radioactive_mp3</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Rix FM</string>
+				<key>url</key>
+				<string>https://fm01-ice.stream.khz.se/fm01_mp3</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Rix FM Fresh</string>
+				<key>url</key>
+				<string>https://wr04-ice.stream.khz.se/wr04_mp3</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Switzerland</string>
+		<key>radios</key>
+		<array>
+			<dict>
+				<key>title</key>
+				<string>Radio SRF 3</string>
+				<key>url</key>
+				<string>https://stream.srg-ssr.ch/m/drs3/aacp_32</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Swiss Pop</string>
+				<key>url</key>
+				<string>https://stream.srg-ssr.ch/m/rsp/aacp_96</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Radio Pilatus</string>
+				<key>url</key>
+				<string>https://stream.streambase.ch/radiopilatus/aac-64/direct</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Energy Bern</string>
+				<key>url</key>
+				<string>http://icepe9.infomaniak.ch/energybern-high.mp3</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Radio Melody</string>
+				<key>url</key>
+				<string>https://stream.streambase.ch/rm/aac-64/direct</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Radio Lac</string>
+				<key>url</key>
+				<string>https://yesfm.ice.infomaniak.ch/yesfm-low.mp3</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Ukraine</string>
+		<key>radios</key>
+		<array>
+			<dict>
+				<key>title</key>
+				<string>Radio Obozrevatel - Nashe Radio</string>
+				<key>url</key>
+				<string>https://online.nasheradio.ua/NasheRadio</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Radio Maksymum</string>
+				<key>url</key>
+				<string>https://icecastdc.luxnet.ua/maximum</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Krayina FM</string>
+				<key>url</key>
+				<string>http://live.radioec.com.ua:8000/kiev</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Hit FM Ukraina</string>
+				<key>url</key>
+				<string>http://195.95.206.17:8000/HitFM_Top_Live</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Avtoradio Ukraina</string>
+				<key>url</key>
+				<string>https://cast.radiogroup.com.ua/avtoradio</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>United Kingdom</string>
+		<key>radios</key>
+		<array>
+			<dict>
+				<key>title</key>
+				<string>Hits Radio</string>
+				<key>url</key>
+				<string>https://stream-mz.planetradio.co.uk/net1southcoast.mp3?direct=true&amp;aw_0_1st.playerid=BMUK_TuneIn&amp;aw_0_1st.skey=7374499933</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Capital Dance</string>
+				<key>url</key>
+				<string>https://ice-sov.musicradio.com/CapitalDance</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Heart Dance</string>
+				<key>url</key>
+				<string>https://icecast.thisisdax.com/HeartDance</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Dragon Radio</string>
+				<key>url</key>
+				<string>http://listen-nation.sharp-stream.com/tcnationdigital.aac</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Km FM</string>
+				<key>url</key>
+				<string>https://listen-kmfm.sharp-stream.com/kmfmdab.mp3</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Vatican</string>
+		<key>radios</key>
+		<array>
+			<dict>
+				<key>title</key>
+				<string>Radio Vaticana World</string>
+				<key>url</key>
+				<string>https://radio.vaticannews.va/stream-it</string>
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>
